@@ -4,3 +4,4 @@ meteo=None
 def AfficheToi(self):
 "Methode d’affichage universelle"
 raise NotImplementedError()
+ouuuuuf
